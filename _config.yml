@@ -18,14 +18,14 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Lee                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  AI Engineer @ Heart | 
+  Deep Neural Networks, 
+  NLP Wizard, Robotics Explorer | 0x6C6A.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://Lee0x6C6A.github.io/'
@@ -44,7 +44,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    # - https://github.com/username       # change to your github homepage
+    # - https://github.com/Lee0x6C6A       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
