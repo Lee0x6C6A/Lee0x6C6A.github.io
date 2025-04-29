@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: Lee                          # the main title
 
-tagline: Life is short, you need Python.   # it will display as the sub-title
+tagline: Life is short, You need Python.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   AI Engineer @ Heart | 
@@ -41,7 +41,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: lee0x6C6A
   email: 807745654@qq.com             # change to your email address
-  # links:
+  links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/Lee0x6C6A       # change to your github homepage
