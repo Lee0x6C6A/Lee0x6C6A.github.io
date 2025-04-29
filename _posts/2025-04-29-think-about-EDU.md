@@ -2,8 +2,8 @@
 title: think about EDU
 author: Lee
 date: 2025-04-29 10:00:00 -0500
-categories: [jobs, EDU]
-tags: [jobs, EDU]
+categories: [Blogging, Tutorial]
+tags: [Blogging, Tutorial]
 ---
 
 
