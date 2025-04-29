@@ -1,9 +1,9 @@
 ---
-title: 教育上的思考
+title: think about EDU
 author: Lee
 date: 2025-04-29 10:00:00 -0500
-categories: [职业, 教育]
-tags: [职业, 教育]
+categories: [jobs, EDU]
+tags: [jobs, EDU]
 ---
 
 
