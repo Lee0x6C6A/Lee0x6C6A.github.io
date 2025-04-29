@@ -1,7 +1,7 @@
 ---
-title: Customize the Favicon
-author: Cotes Chung
-date: 2019-08-11 00:34:00 +0800
+title: 如果是中文名可以显示嘛
+author: Lee
+date: 2013-04-31 10:34:00 +0800
 categories: [Blogging, Tutorial]
 tags: [favicon]
 ---
