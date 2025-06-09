@@ -1,9 +1,9 @@
 ---
 title: 项目更新 - 2024年3月
 author: Lee0x6C6A
-date: 2024-03-26 10:00:00 +0800
-categories: [Project]
-tags: [update, development]
+date: 2025-06-29 10:00:00 +0800
+categories: [Job, Edu]
+tags: [Job-Edu]
 ---
 
 ## 项目概述
