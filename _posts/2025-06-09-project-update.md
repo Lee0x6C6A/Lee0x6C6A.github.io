@@ -1,12 +1,12 @@
 ---
-title: 项目更新 - 2024年3月
+title: 课堂质量管理系统（0.0.1）
 author: Lee0x6C6A
-date: 2025-06-29 10:00:00 +0800
-categories: [Job, Edu]
-tags: [Job-Edu]
+date: 2025-06-09 10:00:00 +0800
+categories: [Project]
+tags: [update, development]
 ---
 
-## 项目概述
+## 课堂质量管理系统
 
 本文档将记录当前项目的开发进度和重要更新。
 
@@ -30,9 +30,9 @@ tags: [Job-Edu]
 
 ## 技术栈
 
-- 前端：React, TypeScript
-- 后端：Node.js
-- 数据库：MongoDB
+- 前端：vue3
+- 后端：python, python restful api, python flaskapi
+- 数据库：mysql
 
 ## 项目时间线
 
